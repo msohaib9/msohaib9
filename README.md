@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msohaib9
-- 👀 I’m interested in machine learning and data science
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning C#, PHP, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email me at awanworldtogo@gmail.com
